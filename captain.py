@@ -34,7 +34,7 @@ height_cha = 60
 vel = 20
 inf = True
 run = True
-clock = time.clock()
+# clock = time.clock()
 c= 0
 v = 0
 fall = []
@@ -72,7 +72,7 @@ while inf :
             over = False  
             how = False
             
-    time.clock
+    # time.clock
     interphase.blit(bg[c%8],(0,0))
     c+=1
     keys = pygame.key.get_pressed()
