@@ -13,7 +13,7 @@
 
 
 ## General Information
-Captain is an arcade type game where the game's storyline is that captain loses his shield and searches for it. And along the way, many objects will fall down If something other than a shield is dropped on you Life will decrease.
+Captain is an arcade type game where the game's storyline is that captain loses his shield and searches for it. And along the way, many objects will fall down If something other than a shield is dropped on you, your score will decrease, but if it gets hit by an explosion. Health will decrease by one.
 
 ## Technologies Used
 - pygame library in python
